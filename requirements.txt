@@ -1,0 +1,7 @@
+requests
+bs4
+networkx
+matplotlib
+setuptools
+wheel
+rich>=13.0.0
